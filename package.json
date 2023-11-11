@@ -9,13 +9,13 @@
     "@material-ui/core": "^4.11.3",
     "@twilio-paste/core": "^15.3.0",
     "@twilio-paste/icons": "9.4.0",
-    "@twilio/flex-plugin-scripts": "6.0.3",
     "prop-types": "^15.7.2",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "@twilio/flex-plugin-scripts": "6.2.3"
   },
   "devDependencies": {
-    "@twilio/flex-ui": "2.0.2",
+    "@twilio/flex-ui": "2.4.1",
     "react-test-renderer": "17.0.2"
   }
 }
